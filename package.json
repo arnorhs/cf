@@ -1,0 +1,28 @@
+{
+  "name": "cf",
+  "version": "0.0.1",
+  "description": "Environment sensitive config file loader",
+  "main": "index.js",
+  "dependencies": {
+    "xtend": "~2.1.1",
+    "mocha": "~1.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arnor Heidar Sigurdsson <arnorhs@gmail.com>",
+  "license": "MIT",
+  "directories": {
+    "test": "test"
+  },
+  "keywords": [
+    "config",
+    "environment",
+    "env",
+    "configuration",
+    "settings",
+    "development",
+    "production"
+  ]
+}
