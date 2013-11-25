@@ -1,7 +1,7 @@
 {
   "name": "cf",
-  "version": "0.0.1",
-  "description": "Environment sensitive config file loader",
+  "version": "0.0.2",
+  "description": "Environment sensitive configuration file loader for node.js",
   "main": "index.js",
   "dependencies": {
     "xtend": "~2.1.1",
@@ -24,5 +24,12 @@
     "settings",
     "development",
     "production"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/arnorhs/cf.git"
+  },
+  "bugs": {
+    "url": "https://github.com/arnorhs/cf/issues"
+  }
 }

@@ -1,6 +1,6 @@
 ## cf
 
-Environment sensitive config loader for node.js, using xtend
+Environment sensitive configuration file loader for node.js, using xtend
 
 ### Example usage:
 
